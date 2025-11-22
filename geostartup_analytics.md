@@ -1,7 +1,3 @@
----
-layout: default
-title: AUD/USD CIP Model
----
 
 
 # GeoStartup Analytics  
